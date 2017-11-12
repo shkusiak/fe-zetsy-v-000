@@ -76,6 +76,10 @@ header a:hover {
 	padding: 1 px;
 }
 
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
 footer {
 	text-align: right;
 	background: #fff;
